@@ -9,4 +9,5 @@ pip install -U spacy                        //library untuk melakukan NLP(Natura
 python -m spacy download en_core_web_md     //pre-trained English models untuk NLP
 ```
 
-Project ditanggalkan karena tidak bisa mengatasi kegagalan saat import package.
+Project ditanggalkan karena tidak bisa mengatasi error.
+```repl process died unexpectedly: signal: killed ```
