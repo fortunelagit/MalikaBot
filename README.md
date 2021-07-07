@@ -1,1 +1,12 @@
-# MalikaBot
+# Final Project KB: Malika Bot
+
+Username Bot : @MalikaFunnyBot
+
+Bebrapa dependensi yang dipakai dapat diinstall menggunakan:
+```
+pip install python-telegram-bot
+pip install -U spacy                        //library untuk melakukan NLP(Natural Language Processing)
+python -m spacy download en_core_web_md     //pre-trained English models untuk NLP
+```
+
+
